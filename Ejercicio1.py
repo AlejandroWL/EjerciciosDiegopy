@@ -20,7 +20,7 @@ def cociente(a, b):
 
 
 if __name__ == "__main__":
-  a = int(input("Ingrese el primer número: "))
+  a = int(input("Ingrese el primerr número: "))
   b = int(input("Ingrese el segundo número: "))
 
   try:
