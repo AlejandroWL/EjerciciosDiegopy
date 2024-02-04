@@ -12,7 +12,7 @@ def es_par(numero):
   resto = numero % 2
   return resto == 0
 
-numero = int(input("Ingresee un número: "))
+numero = int(input("Ingrese unn número: "))
 
 if es_par(numero):
   print("El número", numero, "es par.")
